@@ -2,6 +2,8 @@
 
 SKRID Platform is a web-based interface for querying and exploring musical patterns stored in a graph database.
 
+You can try it here: [https://shaman.enssat.fr/skrid](https://shaman.enssat.fr/skrid)
+
 ## Status
 This organization is just a mirror of the main gitlab, and it will probably not be updated.
 
