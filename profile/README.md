@@ -15,6 +15,7 @@ The project is divided into five repositories:
 - [`frontend`](https://gitlab.inria.fr/skrid/frontend): the interface between the client and the backend
 - [`backend`](https://gitlab.inria.fr/skrid/backend): the brain, query creation, conversion, result processing
 - [`data-ingestion`](https://gitlab.inria.fr/skrid/data-ingestion): the data loader into the graph database
+- [`data`](https://gitlab.inria.fr/skrid/data): music files in multiple formats needed by the frontend and for the database generation
 - [`skrid-deployment`](https://gitlab.inria.fr/skrid/skrid-deployment): orchestration to run the platform
 
 <!--
